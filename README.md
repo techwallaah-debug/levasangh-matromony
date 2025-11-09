@@ -1,14 +1,8 @@
-# Welcome YugantarX to your Levasangh Matromony project
+# Welcome YugantarX team to your Levasangh Matromony project
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/6274a61d-d881-42f1-b9cf-9dca4b6fd6c2
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/6274a61d-d881-42f1-b9cf-9dca4b6fd6c2) and start prompting.
 
@@ -60,7 +54,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/6274a61d-d881-42f1-b9cf-9dca4b6fd6c2) and click on Share -> Publish.
 
